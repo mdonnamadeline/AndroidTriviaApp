@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Animal Quiz Bee</string>
+    <string name="truebutton">True</string>
+    <string name="falsebutton">False</string>
+    <string name="nextbutton">Next</string>
+    <string name="prevbutton">Previous</string>
+    <string name="msgcorrect"><font color="#00FF00">MAY TAMA KA!</font></string>
+    <string name="msgincorrect"><font color="#FF0000">MALI KA!</font></string>
+    <string name="author">author: Donna Madelene O. Mateo</string>
+    <string name="q1">Q1: A group of owls is called a parliament.</string>
+    <string name="q2">Q2: Chameleons change color to blend in with their surroundings.</string>
+    <string name="q3">Q3: Elephants can swim.</string>
+    <string name="q4">Q4: A starfish has 10 arms.</string>
+    <string name="q5">Q5: Hummingbirds can fly backwards.</string>
+    <string name="q6">Q6: Dolphins are the smartest animals on Earth.</string>
+    <string name="q7">Q7: All spiders have eight legs.</string>
+    <string name="q8">Q8: Bats are blind.</string>
+    <string name="q9">Q9: The population of penguins is declining.</string>
+    <string name="q10">Q10: Dogs can\'t see color.</string>
+</resources>
